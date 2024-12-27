@@ -62,3 +62,7 @@ testing.txt
     # Backup and temporary files
     *.bak
     *.tmp
+AI_CODING/
+story_optimized.txt
+crates/
+story.txt
