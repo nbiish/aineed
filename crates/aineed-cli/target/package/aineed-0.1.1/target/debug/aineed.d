@@ -1,0 +1,1 @@
+/Users/nbiish/code/aineed/crates/aineed-cli/target/package/aineed-0.1.1/target/debug/aineed: /Users/nbiish/code/aineed/crates/aineed-cli/target/package/aineed-0.1.1/src/cli.rs /Users/nbiish/code/aineed/crates/aineed-cli/target/package/aineed-0.1.1/src/main.rs

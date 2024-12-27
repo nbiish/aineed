@@ -1,0 +1,34 @@
+[package]
+name = "aineed"
+version = "0.1.1"
+edition = "2021"
+authors = ["Nbiish <nbiish@umich.edu>"]
+description = "AI assistant CLI tool for multiple providers"
+repository = "https://github.com/nbiish/aineed"
+license = "MIT"
+readme = "../../README.md"
+keywords = ["ai", "cli", "openai", "anthropic", "llm"]
+categories = ["command-line-utilities", "api-bindings"]
+include = [
+    "src/**/*",
+    "Cargo.toml",
+    "../../README.md",
+    "../../LICENSE"
+]
+
+[[bin]]
+name = "aineed"
+path = "src/main.rs"
+
+[dependencies]
+aineed-core = "0.1.1"
+clap = { version = "4.0", features = ["derive"] }
+tokio = { version = "1.0", features = ["full"] }
+futures-util = "0.3"
+chrono = "0.4"
+
+[dev-dependencies]
+assert_cmd = "2.0"
+predicates = "3.0"
+tempfile = "3.3"
+tokio-test = "0.4" 

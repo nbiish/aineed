@@ -1,0 +1,28 @@
+[package]
+name = "aineed"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "AI assistant CLI tool"
+readme = "README.md"
+repository = "https://github.com/yourusername/aineed"
+license = "MIT"
+
+[dependencies]
+async-trait = "0.1"
+base64 = "0.21"
+bytes = "1.5"
+chrono = "0.4"
+clap = { version = "4.0", features = ["derive"] }
+dirs = "5.0"
+futures-util = "0.3"
+reqwest = { version = "0.11", features = ["json", "stream"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.0", features = ["full"] }
+
+[dev-dependencies]
+assert_cmd = "2.0"
+predicates = "3.0"
+tempfile = "3.3"
+tokio-test = "0.4"

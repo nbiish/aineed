@@ -1,0 +1,21 @@
+[package]
+name = "aineed-py"
+version = "0.1.1"
+edition = "2021"
+authors = ["Nbiish <nbiish@umich.edu>"]
+description = "Python bindings for aineed"
+repository = "https://github.com/nbiish/aineed"
+license = "MIT"
+readme = "../../README.md"
+keywords = ["ai", "cli", "openai", "anthropic", "llm"]
+categories = ["api-bindings"]
+
+[lib]
+name = "aineed"
+crate-type = ["cdylib"]
+
+[dependencies]
+aineed-core = "0.1.1"
+pyo3 = { version = "0.20", features = ["extension-module"] }
+tokio = { version = "1.0", features = ["full"] }
+futures-util = "0.3" 
