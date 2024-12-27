@@ -1,0 +1,10 @@
+/Users/nbiish/code/aineed/target/debug/deps/libgix_config_value-f9e8b449063ba4a3.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/boolean.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/color.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/integer.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/path.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/types.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/gix_config_value-f9e8b449063ba4a3.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/boolean.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/color.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/integer.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/path.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/types.rs
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/boolean.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/color.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/integer.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/path.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-config-value-0.14.10/src/types.rs:

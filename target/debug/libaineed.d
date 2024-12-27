@@ -1,0 +1,1 @@
+/Users/nbiish/code/aineed/target/debug/libaineed.rlib: /Users/nbiish/code/aineed/src/animation.rs /Users/nbiish/code/aineed/src/config.rs /Users/nbiish/code/aineed/src/error.rs /Users/nbiish/code/aineed/src/image.rs /Users/nbiish/code/aineed/src/lib.rs /Users/nbiish/code/aineed/src/model_handler.rs /Users/nbiish/code/aineed/src/text.rs

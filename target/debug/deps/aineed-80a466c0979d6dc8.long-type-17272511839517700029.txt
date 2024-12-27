@@ -1,0 +1,1 @@
+Pin<Box<futures_util::stream::Filter<futures_util::stream::Map<impl Stream<Item = Result<bytes::bytes::Bytes, reqwest::Error>>, {closure@src/providers/togetherai.rs:174:18: 174:25}>, futures_util::future::Ready<bool>, {closure@src/providers/togetherai.rs:193:21: 193:29}>>>

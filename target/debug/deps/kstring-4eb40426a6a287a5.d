@@ -1,0 +1,12 @@
+/Users/nbiish/code/aineed/target/debug/deps/libkstring-4eb40426a6a287a5.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/stack.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_cow.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_ref.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/backend.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/libkstring-4eb40426a6a287a5.rlib: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/stack.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_cow.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_ref.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/backend.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/kstring-4eb40426a6a287a5.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/stack.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_cow.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_ref.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/backend.rs
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/stack.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_cow.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/string_ref.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/kstring-2.0.2/src/backend.rs:

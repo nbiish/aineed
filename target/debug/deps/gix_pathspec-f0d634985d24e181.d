@@ -1,0 +1,11 @@
+/Users/nbiish/code/aineed/target/debug/deps/libgix_pathspec-f0d634985d24e181.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/pattern.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/mod.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/init.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/matching.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/parse.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/defaults.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/gix_pathspec-f0d634985d24e181.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/pattern.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/mod.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/init.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/matching.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/parse.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/defaults.rs
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/pattern.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/mod.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/init.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/search/matching.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/parse.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-pathspec-0.6.0/src/defaults.rs:

@@ -1,0 +1,1 @@
+impl futures_util::Future<Output = Result<Pin<Box<(dyn Stream<Item = Result<std::string::String, ProviderError>> + std::marker::Send + 'static)>>, ProviderError>>

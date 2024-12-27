@@ -1,3 +1,5 @@
+![aineed icon](aineed_icon.png)
+
 # aineed
 
 A minimal CLI tool for interacting with multiple AI providers (OpenAI, Anthropic, TogetherAI, OpenRouter) with a unified interface.

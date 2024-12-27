@@ -1,0 +1,1 @@
+Result<Pin<Box<dyn Stream<Item = Result<std::string::String, Box<dyn std::error::Error + Send + Sync>>> + Send>>, Box<dyn std::error::Error + Send + Sync>>

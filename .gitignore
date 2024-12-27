@@ -1,68 +1,70 @@
-# Rust build artifacts
-/target/
-**/*.rs.bk
-Cargo.lock
+# # Rust build artifacts
+# /target/
+# **/*.rs.bk
+# Cargo.lock
 
-# IDE and editor files
-.vscode/
-.idea/
-*.swp
-*.swo
-.DS_Store
+# # IDE and editor files
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+# .DS_Store
 
-# Environment and configuration files
-.env
-.env.local
-*.pem
-config.toml
+# # Environment and configuration files
+# .env
+# .env.local
+# *.pem
+# config.toml
 
-# API keys and sensitive data
+# # API keys and sensitive data
 testing.txt
 **/testing.txt
 **/keys.txt
 **/credentials.txt
 
-# Generated files
-*.log
-*.png
-*.jpg
-*.jpeg
-*.txt
-!AI_PROJECT_OUTLINE.txt
-!story_optimized.txt
+# # Generated files
+# *.log
+# *.png
+# *.jpg
+# *.jpeg
+# *.txt
+# !AI_PROJECT_OUTLINE.txt
+# !story_optimized.txt
 
-# Cache directories
-.cache/
-**/__pycache__/
-.pytest_cache/
+# # Cache directories
+# .cache/
+# **/__pycache__/
+# .pytest_cache/
 
-# Dependency directories
-/node_modules/
-/vendor/
+# # Dependency directories
+# /node_modules/
+# /vendor/
 
-# Distribution directories
-/dist/
-/build/
+# # Distribution directories
+# /dist/
+# /build/
 
-    // Start Generation Here
-    # Additional ignore rules
+#     # Additional ignore rules
 
-    # Environment files
-    .env.*
+#     # Environment files
+#     .env.*
 
-    # Package lock files
-    package-lock.json
-    yarn.lock
-    pnpm-lock.yaml
+#     # Package lock files
+#     package-lock.json
+#     yarn.lock
+#     pnpm-lock.yaml
 
-    # Coverage reports
-    coverage/
-    *.lcov
+#     # Coverage reports
+#     coverage/
+#     *.lcov
 
-    # Backup and temporary files
-    *.bak
-    *.tmp
+#     # Backup and temporary files
+#     *.bak
+#     *.tmp
+
 AI_CODING/
+AI_CODING
 story_optimized.txt
-crates/
+# crates/
+# crates
 story.txt

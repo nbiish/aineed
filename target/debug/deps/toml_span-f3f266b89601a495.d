@@ -1,0 +1,12 @@
+/Users/nbiish/code/aineed/target/debug/deps/libtoml_span-f3f266b89601a495.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/de.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/de_helpers.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/error.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/span.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/tokens.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/value.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/../README.md
+
+/Users/nbiish/code/aineed/target/debug/deps/toml_span-f3f266b89601a495.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/de.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/de_helpers.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/error.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/span.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/tokens.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/value.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/../README.md
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/de.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/de_helpers.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/error.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/span.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/tokens.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/value.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-span-0.2.1/src/../README.md:

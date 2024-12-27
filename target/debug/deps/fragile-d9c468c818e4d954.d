@@ -1,0 +1,11 @@
+/Users/nbiish/code/aineed/target/debug/deps/libfragile-d9c468c818e4d954.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/errors.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/fragile.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/registry.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/semisticky.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/sticky.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/thread_id.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/fragile-d9c468c818e4d954.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/errors.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/fragile.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/registry.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/semisticky.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/sticky.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/thread_id.rs
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/errors.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/fragile.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/registry.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/semisticky.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/sticky.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/thread_id.rs:

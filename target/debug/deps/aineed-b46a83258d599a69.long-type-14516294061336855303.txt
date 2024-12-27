@@ -1,0 +1,1 @@
+futures_util::stream::Filter<futures_util::stream::Map<impl Stream<Item = Result<bytes::bytes::Bytes, reqwest::Error>>, {closure@src/providers/anthropic.rs:121:18: 121:26}>, bool, {closure@src/providers/anthropic.rs:139:21: 139:29}>

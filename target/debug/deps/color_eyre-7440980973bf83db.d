@@ -1,0 +1,12 @@
+/Users/nbiish/code/aineed/target/debug/deps/libcolor_eyre-7440980973bf83db.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/color_eyre-7440980973bf83db.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/config.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/fmt.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/handler.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/private.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/mod.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/section/help.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/color-eyre-0.6.3/src/writers.rs:

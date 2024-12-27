@@ -1,0 +1,11 @@
+/Users/nbiish/code/aineed/target/debug/deps/libgix_traverse-df4c57326160b475.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/commit.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/mod.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/recorder.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/breadthfirst.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/libgix_traverse-df4c57326160b475.rlib: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/commit.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/mod.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/recorder.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/breadthfirst.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/gix_traverse-df4c57326160b475.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/commit.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/mod.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/recorder.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/breadthfirst.rs
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/commit.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/mod.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/recorder.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-traverse-0.37.0/src/tree/breadthfirst.rs:

@@ -1,0 +1,12 @@
+/Users/nbiish/code/aineed/target/debug/deps/libfs_err-37b9f455aee54795.rmeta: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/dir.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/errors.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/file.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/open_options.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/os.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/os/unix.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/path.rs
+
+/Users/nbiish/code/aineed/target/debug/deps/fs_err-37b9f455aee54795.d: /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/lib.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/dir.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/errors.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/file.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/open_options.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/os.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/os/unix.rs /Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/path.rs
+
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/lib.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/dir.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/errors.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/file.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/open_options.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/os.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/os/unix.rs:
+/Users/nbiish/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fs-err-2.11.0/src/path.rs:

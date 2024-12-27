@@ -1,0 +1,1 @@
+Pin<Box<futures_util::stream::Filter<futures_util::stream::Map<impl Stream<Item = Result<bytes::bytes::Bytes, reqwest::Error>>, {closure@src/providers/openrouter.rs:168:18: 168:25}>, futures_util::future::Ready<bool>, {closure@src/providers/openrouter.rs:187:21: 187:29}>>>
