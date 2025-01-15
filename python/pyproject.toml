@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aineed"
+version = "0.1.1"
+description = "AINeed Python Implementation"
+authors = [{ name = "Your Name", email = "your.email@example.com" }]
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/yourusername/aineed"
+Documentation = "https://github.com/yourusername/aineed/tree/main/docs"

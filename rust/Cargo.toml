@@ -1,0 +1,11 @@
+[package]
+name = "aineed"
+version = "0.1.1"
+edition = "2021"
+description = "AINeed Rust Implementation"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+repository = "https://github.com/yourusername/aineed"
+documentation = "https://github.com/yourusername/aineed/tree/main/docs"
+
+[dependencies]

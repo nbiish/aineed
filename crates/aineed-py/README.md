@@ -1,5 +1,3 @@
-![aineed icon](aineed_icon.png)
-
 # aineed
 
 A minimal CLI tool for interacting with multiple AI providers (OpenAI, Anthropic, TogetherAI, OpenRouter) with a unified interface.
@@ -16,28 +14,32 @@ A minimal CLI tool for interacting with multiple AI providers (OpenAI, Anthropic
 - 🎨 Image Generation with Automatic Timestamped Filenames
 - 🔒 Local API Key Management
 
-## Prerequisites
 
+### Prerequisites
 - Python 3.7 or higher
 - Rust toolchain (install from https://rustup.rs/)
 
-## Using pip
-
+### Using pip
 ```bash
 # Install Rust first if you haven't already
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+```bash
 pip install aineed
 ```
 
-Install without needing rust COMING SOON~
+### Install without needing rust COMING SOON~
+
 
 ## Support
 
 As a full-time student, your support would be greatly appreciated!
 
-- **CashApp**: [$Nbiish](https://cash.app/$Nbiish)
+- **CashApp**: [\$Nbiish](https://cash.app/$Nbiish)
 - **Venmo**: [@Nbiish](https://venmo.com/@Nbiish)
 - **Linktree**: [https://linktr.ee/nbiish](https://linktr.ee/nbiish)
+
 
 ## Upcoming Features
 
@@ -48,6 +50,8 @@ We are excited to announce that future releases of **aineed** will include:
 - **Voice and Audio Input/Output**: Enable voice commands and audio responses for a more interactive and seamless user experience.
 
 Stay tuned for these and more exciting updates!
+
+
 
 ## Configuration
 
@@ -124,7 +128,7 @@ aineed openrouter:google/gemini-2.0-flash-exp --temp 0.9 -t 999 -p "Tell me a Na
 
 ```bash
 # Set a new default model
-aineed -d "togetherai:meta-llama/Llama-3.3-70b-instruct-turbo"
+aineed -d "openrouter:google/gemini-2.0-flash-exp"
 ```
 
 ### Additional Examples of Use
@@ -209,4 +213,4 @@ The tool provides detailed error messages from providers to help troubleshoot:
 
 MIT License - see [LICENSE](LICENSE) for details
 
-#LANDBACK
+# #LANDBACK

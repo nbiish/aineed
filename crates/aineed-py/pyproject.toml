@@ -1,0 +1,31 @@
+[build-system]
+requires = ["maturin>=1.4,<2.0"]
+build-backend = "maturin"
+
+[project]
+name = "aineed"
+version = "0.1.12"
+description = "AI assistant CLI tool for multiple providers"
+authors = [
+    {name = "Nbiish", email = "nbiish@umich.edu"}
+]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+keywords = ["ai", "cli", "openai", "anthropic", "togetherai", "openrouter", "google", "text generation", "image generation", "llm"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Rust",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[project.scripts]
+aineed = "aineed.__main__:main" 

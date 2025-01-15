@@ -1,13 +1,13 @@
 [package]
 name = "aineed-py"
-version = "0.1.1"
+version = "0.1.12"
 edition = "2021"
 authors = ["Nbiish <nbiish@umich.edu>"]
 description = "Python bindings for aineed"
 repository = "https://github.com/nbiish/aineed"
 license = "MIT"
 readme = "../../README.md"
-keywords = ["ai", "cli", "openai", "anthropic", "llm"]
+keywords = ["ai", "cli", "openai", "anthropic", "togetherai", "openrouter", "google", "text generation", "image generation", "llm"]
 categories = ["api-bindings"]
 
 [lib]
